@@ -38,8 +38,13 @@ li {
 
 .copy-container h2 {
   font-size: 60px;
-  color: #ff4a4a;
+  color: #ff4a4a; 
 }
+.copy-container h3 {
+  font-size: 40px;
+  color: #fd5da8;
+}
+
 
 .copy-container span {
   color: #ff4a4a;
